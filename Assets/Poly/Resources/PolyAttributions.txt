@@ -1,0 +1,13 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Balloon
+Author: Louis DeScioli
+URL: https://poly.google.com/view/a01Rp51l-L3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: RibbonCube
+Author: Jonathan Linowes
+URL: https://poly.google.com/view/bci9YM39pDA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
